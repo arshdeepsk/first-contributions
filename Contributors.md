@@ -4,6 +4,7 @@
 - [Katie Snell](https://github.com/katieisnell)
 - [Dan Piazza](https://github.com/DanielJPiazza)
 - [Jonathan Tang](https://github.com/jTanG0506)
+- [Ishita VArshney](https://github.com/ishitavarshney)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Tomas Ye](https://github.com/TomasDavidYe)
